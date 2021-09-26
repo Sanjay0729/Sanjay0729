@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjay0729
-- 👀 I’m interested inlearning coding and its practical applications
-- 🌱 I’m currently learning to gain skills in coding languages and use it as a leverage to gain professional experience
+- 👀 I’m interested in learning coding and its practical applications in real world
+- 🌱 I’m currently learning to gain skills in coding languages and use it as a leverage to gain professional experience.
 - 💞️ I’m looking to collaborate on anything that i can be useful to.
 
 <!---
